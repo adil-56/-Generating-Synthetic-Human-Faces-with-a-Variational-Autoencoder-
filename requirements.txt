@@ -1,0 +1,6 @@
+tensorflow==2.10.0
+# or pytorch==1.12.1
+numpy==1.23.3
+matplotlib==3.6.0
+opencv-python-headless==4.6.0.66
+Pillow==9.2.0
